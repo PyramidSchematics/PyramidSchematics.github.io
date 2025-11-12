@@ -1,2 +1,2 @@
-# PyramidSchematics.github.io
-Public Blog
+# pyramidschematics.cc
+Please wait, WIP.
