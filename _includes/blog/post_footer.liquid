@@ -3,7 +3,7 @@
 {% capture _post_footer %}
     <!-- To change color of links in the page -->
     <style>
-        header#main {
+        header {
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -23,14 +23,14 @@
             text-decoration: none;
             filter: none;
         }
-        header#main {
+        header {
             background-color: {{ color }} !important;
             background-image: url('{{ site.color_image | relative_url }}');
         }
         {% endif %}
 
         {% if img != nil %}
-        header#main { background-image: url('{{ img | relative_url }}'); }
+        header { background-image: url('{{ img | relative_url }}'); }
         {% endif %}
     </style>
 
