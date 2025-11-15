@@ -4,7 +4,8 @@ title: Tech Stuff example
 author: Ed
 feature-img: "assets/img/feature-img/circuit.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
-tags: [Highlight, Markdown]
+categories: Sample
+tags: [Sample, With Header]
 ---
 
 Let's demo some code snippet, with some mermaid diagrams.
