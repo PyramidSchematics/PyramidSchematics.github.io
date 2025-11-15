@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dark Mode
+title: Sample Post 2 
 author: Ed
 tags: [Sample, Markdown]
 categories: Sample
